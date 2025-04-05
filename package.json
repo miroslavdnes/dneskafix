@@ -11,6 +11,6 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "mapbox-gl": "^2.15.0"
+    "leaflet": "^1.9.4"
   }
 }
